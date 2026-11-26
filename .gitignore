@@ -1,0 +1,12 @@
+/build/
+/bin/
+/lib/
+*.class
+__pycache__/
+.DS_Store
+._*
+.env
+.env.*
+APIGPT.txt
+APDescription.txt
+MTPs-*.txt
